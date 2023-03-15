@@ -6,9 +6,12 @@ Add Movies to My Favourite List.
 Remove Movies from My Favourite List     
 
 State Management:      
-https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple#our-example         
+https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple#our-example  
+https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html       
 https://pub.dev/documentation/provider/latest/provider/InheritedProvider-class.html       
-https://pub.dev/documentation/provider/latest/provider/MultiProvider-class.html         
+https://pub.dev/documentation/provider/latest/provider/MultiProvider-class.html      
+https://docs.flutter.dev/development/data-and-backend/state-mgmt/options    
+
 
 Used:        
 https://docs.flutter.dev/cookbook/lists/mixed-list     
